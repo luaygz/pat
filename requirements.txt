@@ -1,0 +1,13 @@
+aiohttp
+colorama
+mistralai
+openai
+parallel-web
+python-dotenv
+tiktoken
+xxhash
+youtube-transcript-api
+
+# Optional, if you want to use MongoDB for caching
+beanie
+pymongo
